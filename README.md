@@ -1,2 +1,2 @@
-#Angularjs - Laravel
-Projeto feito em Angularjs front-end e Laravel no Back-end
+
+#Projeto feito em Angularjs front-end e Laravel no Back-end
